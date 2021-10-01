@@ -75,7 +75,7 @@ body {
 }
 
 .wrapper {
-  background: url("/img/bgcBG_MAIN.jpg");
+  background: url("https://github.com/AlbertRus02/ComputerCourse/blob/main/img/main-screen__bgcfirst-screen.jpg");
   max-width: 100%;
   min-width: 1300px;
 }
