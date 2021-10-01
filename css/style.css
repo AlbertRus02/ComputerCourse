@@ -75,14 +75,14 @@ body {
 }
 
 .wrapper {
-  background: url("https://github.com/AlbertRus02/ComputerCourse/blob/main/img/bgcBG_MAIN.jpg");
+  background: url("https://github.com/AlbertRus02/ComputerCourse/blob/main/img/bgcBG_MAIN.jpg?raw=true");
   max-width: 100%;
   min-width: 1300px;
 }
 
 .first-screen {
   height: 960px;
-  background-image: url("https://github.com/AlbertRus02/ComputerCourse/blob/main/img/main-screen__bgcfirst-screen.jpg");
+  background-image: url("https://github.com/AlbertRus02/ComputerCourse/blob/main/img/main-screen__bgcfirst-screen.jpg?raw=true");
   background-size: cover;
   background-position: center;
   max-width: 100%;
